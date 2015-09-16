@@ -4,4 +4,6 @@ R/ A .git folder is created in the main repository folder. This is needed to sto
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 R/ You have differents versions of your files, so you can work secure that you have a working version of your code.
 
-end of file.
+How can you use the staging area to make sure you have one commit per logical change?
+R/ Using git diff command I can see what type of changes I am commiting.
+
